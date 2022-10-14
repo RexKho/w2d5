@@ -1,0 +1,32 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: bisque;
+
+}
+
+h1 {
+    font-size: 38px
+
+}
+
+h2 {
+    font-size: 32px
+}
+
+ul.ingredients-list {
+    list-style: square inside; 
+}
+
+ol {
+    list-style: georgian inside;
+}
+
+header>img {
+    width: 100px;
+}
+
+ol, li,  a {
+text-decoration: none;
+color: inherit;
+}
